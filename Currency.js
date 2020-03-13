@@ -24,7 +24,7 @@
         {code:'AUD', name:'Australisk Dollar'},
         {code:'CAD', name:'Kanadensisk Dollar'},
         {code:'CHF', name:'Schweizisk Franc'},
-        {code:'CNH', name:'Offshore Yuan'},       
+        {code:'CNY', name:'Kinesisk Yuan'},       
         {code:'SEK', name:'Svensk Krona'},
         {code:'NZD', name:'Nyzeeländsk Dollar'}];
         
