@@ -12,8 +12,6 @@ let lastFetched = localStorage.getItem("lastfetched");
 let today = new Date();
 let date = today.getFullYear()+'-'+(today.getMonth()+1)+'-'+today.getDate();
 
-//Ta bort nedanstående
-lastFetched = null;
 
 if (lastFetched == null || lastFetched != date)
 {
